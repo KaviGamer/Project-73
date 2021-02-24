@@ -67,7 +67,7 @@ export default class Write extends React.Component {
             borderWidth: 4,}}
             onChangeText={
               this.setState({
-                aithor:value
+                athor:value
               })
             }
           placeholder="Author"
